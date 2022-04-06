@@ -2,6 +2,8 @@
 
 这里是Solocene制作的基础物理实验报告Latex模板，需要的童鞋可以自取。
 
+主体是`expTemplate.tex`和`阻尼振动与受迫振动.tex`。下载后记得将所有含`.jpg`和`.png`的部分注释掉，否则会运行错误。
+
 预览效果：
 
 ![](https://pic.imgdb.cn/item/624d4d88239250f7c58fec7a.jpg)
