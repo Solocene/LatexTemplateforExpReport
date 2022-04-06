@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}摘要}{2}{section.1}%
+\contentsline {section}{\numberline {2}实验仪器}{2}{section.2}%
+\contentsline {section}{\numberline {3}实验内容}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}(A)观测有粘滞阻尼时的阻尼振动规律}{2}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}(B)分析振动系统受迫振动的基本规律, 观测幅频特性}{6}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}(C)探究受迫振动的瞬态过程，了解共振现象}{10}{subsection.3.3}%
+\contentsline {section}{\numberline {4}讨论与分析}{11}{section.4}%
+\contentsline {subsection}{\numberline {4.1}阻尼增大时共振频率的偏移}{11}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}暂态过程振幅-时间关系中产生的系统偏差}{12}{subsection.4.2}%
+\contentsline {section}{\numberline {5}原始数据}{12}{section.5}%
